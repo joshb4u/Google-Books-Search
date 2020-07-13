@@ -47,10 +47,10 @@ This project is licensed under MIT
 [![license](https://img.shields.io/npm/l/license)](https://opensource.org/licenses/MIT)
 
 ## Preview
-![Demo](public/assets/demo.gif)
+![Demo](client/public/assets/demo.gif)
 
 ## Video
-https://joshb4u.github.io/Google-Books-Search/public/assets/demo.mp4
+https://joshb4u.github.io/Google-Books-Search/client/public/assets/demo.mp4
 
 
 ## Deployed Heroku URL
